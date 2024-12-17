@@ -27,7 +27,7 @@ This project analyzes and visualizes **British Airways customer reviews** to unc
 ---
 
 ## How to View the Dashboard  
-1. Open the interactive dashboards on Tableau Public [dashboard](https://public.tableau.com/app/profile/sri.sai.gopichand.polavarapu/viz/BritishAirwaysReviews_17344044612050/Dashboard1?publish=yes)](#).  
+1. Open the interactive dashboards on Tableau Public [dashboard](https://public.tableau.com/app/profile/sri.sai.gopichand.polavarapu/viz/BritishAirwaysReviews_17344044612050/Dashboard1?publish=yes)].  
 2. Explore the visualizations to gain insights into British Airways customer reviews.  
 
 
